@@ -1,2 +1,2 @@
 # Personal-Archive
-I am an aspiring Data Scientist. I am sharing my bio, interests, skills and brief descriptions of my personal and professional projects.
+I am an aspiring Data Scientist. This archive holds my bio, interests, skills and an overview of personal and professional projects.
